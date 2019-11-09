@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[35],{j91k:function(e,a,p){"use strict";p.r(a);var n=p("p0pE"),s=p.n(n);a["default"]={namespace:"systemSetting",state:{customManager:{},peopleType:{},infoCard:{},superAdmin:{}},reducers:{update(e,a){var p=a.payload;return s()({},e,p)}}}}}]);

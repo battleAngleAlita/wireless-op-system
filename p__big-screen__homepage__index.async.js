@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[2],{HvUD:function(e,n,t){"use strict";t.r(n),t.d(n,"default",function(){return a});var r=t("q1tI"),o=t.n(r);class a extends r["Component"]{render(){return o.a.createElement("div",null,"HomePage")}}}}]);

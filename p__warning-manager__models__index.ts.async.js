@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[48],{Ef4h:function(a,n,e){"use strict";e.r(n);var r=e("p0pE"),p=e.n(r);n["default"]={namespace:"infoCardManager",state:{customManager:{},taskPlan:{},infoCard:{},superAdmin:{}},reducers:{update(a,n){var e=n.payload;return p()({},a,e)}}}}}]);
